@@ -20,4 +20,3 @@ require_once __DIR__ . '/../app/data.php';
     </div>
 </body>
 </html>
-
