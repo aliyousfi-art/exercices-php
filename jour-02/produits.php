@@ -9,10 +9,8 @@ $product = [
     "brand" => "SoundMax"
 ];
 
-// Ajout de la date du jour
 $product["dateAdded"] = date("d/m/Y");
 
-// Application d'une remise de 10 %
 $product["price"] = $product["price"] * 0.9;
 ?>
 
